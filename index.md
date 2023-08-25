@@ -1,3 +1,3 @@
 
-Checkout my [Portfolio](https://driouechemed.github.io/)
+Checkout my [Portfolio](https://driouechemed.github.io/portfolio)
 
