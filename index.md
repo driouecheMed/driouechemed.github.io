@@ -1,5 +1,3 @@
-## About Me
-
 Hello! I’m Drioueche Mohammed, a passionate software engineer based in Morocco. 
 I specialize in creating innovative and user-friendly mobile applications. 
 My journey in this field started with a strong passion for solving complex problems and building functional, intuitive apps, and it has only grown since then.
